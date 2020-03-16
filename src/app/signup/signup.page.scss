@@ -1,9 +1,11 @@
 .login-header{
-    background: var(--theme-color);
+    //background: var(--theme-color);
+    background: peachpuff;
 }
 .login-header{
     position: relative;
-    background: var(--theme-color);
+    //background: var(--theme-color);
+    background: peachpuff;
     border-radius: 0em;
 }
 
@@ -15,7 +17,8 @@
     width: 0;
     height: 0;
     border: 20px solid transparent;
-    border-top-color: var(--theme-color);
+    //border-top-color: var(--theme-color);
+    border-top-color: peachpuff;
     border-bottom: 0;
     margin-left: -15px;
     margin-bottom: -15px;

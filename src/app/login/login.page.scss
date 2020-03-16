@@ -1,9 +1,11 @@
 .login-header{
-    background: var(--theme-color);
+    //background: var(--theme-color);
+    background: lightblue;
 }
 .login-header{
     position: relative;
-    background: var(--theme-color);
+    //background: var(--theme-color);
+    background: lightskyblue;
     border-radius: 0em;
 }
 
@@ -15,7 +17,8 @@
     width: 0;
     height: 0;
     border: 20px solid transparent;
-    border-top-color: var(--theme-color);
+    //border-top-color: var(--theme-color);
+    border-top-color: lightskyblue;
     border-bottom: 0;
     margin-left: -15px;
     margin-bottom: -15px;
@@ -88,5 +91,6 @@ ion-item{
     height: 30px;
 }
 ion-button-class1{
-    color: var(--theme-color);
+    //color: var(--theme-color);
+    color: pink;
 }
